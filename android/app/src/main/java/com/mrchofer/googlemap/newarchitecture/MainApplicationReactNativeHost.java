@@ -1,4 +1,4 @@
-package com.googlemap.newarchitecture;
+package com.mrchofer.googlemap.newarchitecture;
 
 import android.app.Application;
 import androidx.annotation.NonNull;
@@ -20,9 +20,9 @@ import com.facebook.react.fabric.EmptyReactNativeConfig;
 import com.facebook.react.fabric.FabricJSIModuleProvider;
 import com.facebook.react.fabric.ReactNativeConfig;
 import com.facebook.react.uimanager.ViewManagerRegistry;
-import com.googlemap.BuildConfig;
-import com.googlemap.newarchitecture.components.MainComponentsRegistry;
-import com.googlemap.newarchitecture.modules.MainApplicationTurboModuleManagerDelegate;
+import com.mrchofer.googlemap.BuildConfig;
+import com.mrchofer.googlemap.newarchitecture.components.MainComponentsRegistry;
+import com.mrchofer.googlemap.newarchitecture.modules.MainApplicationTurboModuleManagerDelegate;
 import java.util.ArrayList;
 import java.util.List;
 

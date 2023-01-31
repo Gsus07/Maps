@@ -1,4 +1,4 @@
-package com.googlemap;
+package com.mrchofer.googlemap;
 
 import android.os.Build;
 import android.os.Bundle;
